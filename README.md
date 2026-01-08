@@ -134,7 +134,6 @@ Notebook mencakup:
 - Normalisasi target
 - Optimasi metaheuristik
 - Kesimpulan teknis
-- gambar.png
 
 
 ---
@@ -151,3 +150,4 @@ Hasil optimasi dapat digunakan sebagai dasar penentuan kebijakan operasi proses 
 
 ## 10. Author
 Process Engineer – Data-Driven Process Optimization
+![gambar matrik](gambar.png)
